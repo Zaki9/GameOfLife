@@ -1,0 +1,45 @@
+.red{
+
+  background-color: red;
+
+
+}
+.white{
+
+  background-color: white;
+
+
+}
+
+.cell{
+  width: 20px ;
+  height: 20px;
+  border : 2px solid black ;
+
+}
+.main{
+   background-color:   ;
+   top:50%;
+margin-left: 250px;
+}
+.btn{
+  margin-left: 5px;
+}
+#b1,#b2{
+  border-radius: 2px;
+}
+
+.bar{
+  background-color:  ;
+  position: static;
+
+ }
+
+.container{
+  position:  relative;
+  background-color:  ;
+  top:50px;
+  right:50px;
+
+
+}
